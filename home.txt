@@ -1,1 +1,2 @@
 Esta é uma linha de texto
+linha no repositório local.
